@@ -1,0 +1,5 @@
+__pycache__/
+archived/
+**/*.ipynb
+.DS_Store
+cache/*

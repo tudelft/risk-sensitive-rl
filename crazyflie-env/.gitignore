@@ -1,0 +1,11 @@
+**/__pycache__/
+envs/__pycache__/
+*.pyc
+*.egg-info/
+*.ipynb
+*.gif
+*.png
+#macOS
+.DS_Store
+.vscode
+.ipynb*
