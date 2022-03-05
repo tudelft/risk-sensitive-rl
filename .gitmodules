@@ -1,6 +1,0 @@
-[submodule "crazyflie-env"]
-	path = crazyflie-env
-	url = https://github.com/chengliu-LR/crazyflie-env
-[submodule "art-iqn"]
-	path = art-iqn
-	url = https://github.com/chengliu-LR/art-iqn
