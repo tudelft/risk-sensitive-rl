@@ -34,13 +34,13 @@ To reproduce our real-world experiments, one needs a *crazyflie* drone system eq
 ### IQN policy with fixed CVaR values
 
 ```shell
-python3 run_cyber_zoo.py --cvar=<your_cvar_value> --exp_id='<your_experiment_id>'
+python3 art-iqn/run_cyber_zoo.py --cvar=<your_cvar_value> --exp_id='<your_experiment_id>'
 ```
 
 ### ART-IQN
 
 ```shell
-python3 run_cyber_zoo_art.py 
+python3 art-iqn/run_cyber_zoo_art.py 
 ```
 
 ### Video
