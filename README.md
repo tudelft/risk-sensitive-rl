@@ -2,6 +2,8 @@
 
 Code base for paper: [Adaptive Risk Tendency: Nano Drone Navigation in Cluttered Environments with Distributional Reinforcement Learning]
 
+![Alt Text](art-iqn/experiments/cyberzoo/figures/cyberzoo_cluttered.gif)
+
 ## Dependencies
 
 + python 3.6+
