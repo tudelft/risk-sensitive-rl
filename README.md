@@ -1,6 +1,6 @@
 # Risk-sensitive-RL
 
-Code base for paper: [Adaptive Risk Tendency: Nano Drone Navigation in Cluttered Environments with Distributional Reinforcement Learning]
+Code base for paper: ![Adaptive Risk Tendency: Nano Drone Navigation in Cluttered Environments with Distributional Reinforcement Learning](https://arxiv.org/abs/2203.14749)
 
 ![Alt Text](art-iqn/experiments/cyberzoo/figures/cyberzoo_cluttered.gif)
 
